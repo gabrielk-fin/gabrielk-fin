@@ -1,11 +1,11 @@
 ### Hi, I'm Gabriel 👋
 
-Data & machine learning at [Finary](https://finary.com), the app to track and grow your wealth.
+Data & machine learning at [Finary](https://finary.com).
 
 **What I work on**
 - 🤖 Machine learning on product data: scoring, forecasting, anomaly detection
-- 🏗️ Data pipelines and analytics on the data platform
-- ⚙️ Internal tools and automations for the Growth, Sales and Care teams
+- 🏗️ Data pipelines and analytics
+- ⚙️ Internal tools and automations 
 
 **Stack**
 
@@ -16,5 +16,3 @@ Data & machine learning at [Finary](https://finary.com), the app to track and gr
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-
-Most of my work lives in private repositories at [@finary-wealth](https://github.com/finary-wealth).
